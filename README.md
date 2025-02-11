@@ -27,10 +27,10 @@ The Stopwatch Timer App allows users to start, stop, reset, and track elapsed ti
 4. Run the application on emulator or a physical device
 
 ## Screenshots
-https://github.com/pawan6673/StopwatchTimerApp/blob/0accb3545c60c8ce045d7b3cfcf83dc8ae5b4fb6/1.jpg
-https://github.com/pawan6673/StopwatchTimerApp/blob/0accb3545c60c8ce045d7b3cfcf83dc8ae5b4fb6/2.jpg
-https://github.com/pawan6673/StopwatchTimerApp/blob/0accb3545c60c8ce045d7b3cfcf83dc8ae5b4fb6/3.jpg
-https://github.com/pawan6673/StopwatchTimerApp/blob/0accb3545c60c8ce045d7b3cfcf83dc8ae5b4fb6/4.jpg
+![image alt](https://github.com/pawan6673/StopwatchTimerApp/blob/0accb3545c60c8ce045d7b3cfcf83dc8ae5b4fb6/1.jpg)
+![image alt](https://github.com/pawan6673/StopwatchTimerApp/blob/0accb3545c60c8ce045d7b3cfcf83dc8ae5b4fb6/2.jpg)
+![image alt](https://github.com/pawan6673/StopwatchTimerApp/blob/0accb3545c60c8ce045d7b3cfcf83dc8ae5b4fb6/3.jpg)
+![image alt](https://github.com/pawan6673/StopwatchTimerApp/blob/0accb3545c60c8ce045d7b3cfcf83dc8ae5b4fb6/4.jpg)
 
 ## Author Information
 Pawan Ranjan
