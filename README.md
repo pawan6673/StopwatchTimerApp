@@ -19,8 +19,8 @@ The Stopwatch Timer App allows users to start, stop, reset, and track elapsed ti
 
 ⚙️ Setup Instructions
 1. Clone the Repository
-
-git clone https://github.com/pawan6673/Stopwatch-Timer-App.git
+   https://github.com/pawan6673/StopwatchTimerApp
+  
 
 2. Open the Project in Android Studio
 3. Sync Gradle and build the project
