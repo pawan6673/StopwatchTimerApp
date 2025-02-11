@@ -34,3 +34,4 @@ The Stopwatch Timer App allows users to start, stop, reset, and track elapsed ti
 
 ## Author Information
 Pawan Ranjan
+Connect with me on [LinkedIn]https://www.linkedin.com/in/pawan-ranjan-57b66424a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
